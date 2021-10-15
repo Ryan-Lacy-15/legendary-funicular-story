@@ -14,3 +14,7 @@ On his first day in Portland, Andrew thought he would visit his friend Cheri at 
 and she agreed to meeet up for coffee. She was excited that he was biking from Washington to Mexico and deicded that she
 would skip a couple of days of school and join him on his trip. Her computer science teacher wasn't happy that she skipped
 class but they thought that she might come up with some creative ideas for her next coding project while biking. 
+
+Unfortunately, Cheri wasn't a planner, and didn't realize she needed a bike. Andrew never quite figured out
+what her plan was, but they elected to sell his bike and buy some plane tickets to get them to Mexico, 
+since Cheri only had a few days to go on this trip. 
